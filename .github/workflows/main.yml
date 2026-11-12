@@ -351,3 +351,5 @@ jobs:
         VIRTUALENV_SYSTEM_SITE_PACKAGES: "1"
     - name: codecov
       uses: codecov/codecov-action@v5
+
+# Baseline CI for the autodoc type-hint context PR.
